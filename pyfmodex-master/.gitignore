@@ -1,0 +1,8 @@
+*.pyc
+build/*
+dist/*
+pyfmodex.egg-info/*
+.cache/*
+*.py,cover
+.coverage
+MANIFEST
